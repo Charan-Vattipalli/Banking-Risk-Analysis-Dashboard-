@@ -4,15 +4,15 @@ This Power BI project focuses on risk analytics in the banking sector, aiming to
 Banks face the ongoing challenge of managing risk while lending to customers. This project helps develop a basic understanding of how data is used to minimize the risk of losing money, particularly by identifying high-risk applicants before loan approval.
 
 # ✅ Solution
-Using interactive dashboards built in Power BI, this solution enables banking professionals to:
+- Using interactive dashboards built in Power BI, this solution enables banking professionals to:
 
-Analyze applicant profiles based on multiple dimensions.
+- Analyze applicant profiles based on multiple dimensions.
 
-Predict the likelihood of loan repayment.
+- Predict the likelihood of loan repayment.
 
-Make informed lending decisions to reduce default risk.
+- Make informed lending decisions to reduce default risk.
 
-The dashboard leverages relationships across multiple tables and utilizes DAX formulas, filters, and visuals to provide insights on each applicant's banking behavior and financial reliability.
+- The dashboard leverages relationships across multiple tables and utilizes DAX formulas, filters, and visuals to provide insights on each applicant's banking behavior and financial reliability.
 
 # 🧾 About the Dataset
 - The dataset consists of multiple relational tables connected through primary and foreign keys, simulating a real-world banking database:
